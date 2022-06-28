@@ -2,4 +2,5 @@ pylint
 wikipedia
 python-json-logger
 boto3
+pandas
 black
